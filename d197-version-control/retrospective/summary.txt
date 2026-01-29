@@ -1,0 +1,8 @@
+To resolve the merge conflict in part E1, I opened the ReadMe file using nano while the merge was in process. When the file was opened, I cleared out the extra text above, below, and in the middle of the Student ID text and Version
+number text. Because the two lines of text were on separate lines, the merge conflict was resolved.
+
+I made three edits to HTML files in part C.
+
+The first of the three edits was in the about.html file where I edited the Title of the page to "WGU - About Us" and edited the h1 header to say "About the Team".
+The second of the three edits was changing the title in the services.html file. I changed the title from "WGU - Test" to "WGU - What We Do".
+The last of the three edits took place within the contact.html file. In this file, I added my WGU email as a means of contact for the site visiter. I added a mailto: link for my email.
