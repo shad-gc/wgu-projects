@@ -1,0 +1,54 @@
+commit 9a4a78b4ad43990afc85dd931aa238bf3d85b9bb
+Merge: ed60936 57b430e
+Author: unknown <rhuss26@wgu.edu>
+Date:   Tue Jul 30 21:51:22 2024 -0700
+
+    I resolved the merge conflict.
+
+commit ed6093608b742cc8afef6470db857b77842d413c
+Author: unknown <rhuss26@wgu.edu>
+Date:   Tue Jul 30 21:47:39 2024 -0700
+
+    I added the version number to the Working branch within the Readme file
+
+commit 57b430e2240d7cafb60b945e4804abdbc5003dbd
+Author: unknown <rhuss26@wgu.edu>
+Date:   Tue Jul 30 21:38:22 2024 -0700
+
+    My second attempt of adding my Student ID to a 'Test' branch.
+
+commit 11546c87bdb1968aaa614fb733624373841d88c6
+Author: unknown <rhuss26@wgu.edu>
+Date:   Tue Jul 30 21:14:47 2024 -0700
+
+    I added my email contact information with a link in contact.html.
+
+commit 0b3dc2f0774b66c0ad6176aa019fbe4323f7301f
+Author: unknown <rhuss26@wgu.edu>
+Date:   Tue Jul 30 21:12:12 2024 -0700
+
+    In services.html, I edited the title.
+
+commit 740d6ba003ea75097d37b334a88af524d1dd8e03
+Author: unknown <rhuss26@wgu.edu>
+Date:   Tue Jul 30 21:03:05 2024 -0700
+
+    In about.html, I changed the title to 'WGU - About Page' and I changed the Header to say 'About the Team'.
+
+commit 16146c0f639da862ea26d8cc08b7715b55acd78d
+Author: unknown <rhuss26@wgu.edu>
+Date:   Tue Jul 30 20:55:33 2024 -0700
+
+    In contact.html, I changed the header to say 'WGU - Contact Info and I added a message saying to reach out to my WGU contact information for any questions.
+
+commit 194e1b48597d51a13e257693e74da80d2882b5c7
+Author: matt.alexander8 <matt@twocom.com>
+Date:   Thu Aug 24 14:47:21 2023 -0400
+
+    Added intial project
+
+commit 959a15aab3bfa9f105acbbf5d66930b053d28249
+Author: Matt Alexander <matt@twocom.com>
+Date:   Thu Aug 24 17:21:16 2023 +0000
+
+    Initial commit
